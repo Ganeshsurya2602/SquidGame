@@ -13,7 +13,7 @@ body, html {
   padding: 0;
   overflow: hidden;
   height: 100vh;
-  background: url('IMG/Hideandseek.png') no-repeat center center fixed;
+  background: url('IMG/BG_Hideandseek.png') no-repeat center center fixed;
   background-size: cover;
   font-family: 'Segoe UI', sans-serif;
   color: white;

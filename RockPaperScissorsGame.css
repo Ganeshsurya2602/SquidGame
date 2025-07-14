@@ -4,7 +4,7 @@ html, body {
   padding: 0;
   overflow: hidden;
   height: 100%;
-  background: url('IMG/Bg_RockPaperScissorsGame.png') no-repeat center center fixed;
+  background: url('IMG/BG_RockPaperScissorsGame.png') no-repeat center center fixed;
   background-size: cover;
   color: white;
   user-select: none;
